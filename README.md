@@ -44,12 +44,14 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
+Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+
+
 Developed by:R.JEGATHEESWARI R 
 
 
 RegisterNumber:212223230092
 
-Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
 ```
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
